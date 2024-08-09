@@ -1,0 +1,10 @@
+1. Why React?
+2. React setup using VITE and tailwind setup.
+3. Why need Hooks?
+4. React Interview question on counter(set counter(previous=>previous+2))//access of previous value.
+5. Background Changer project using use state hook.
+6. use Effect, use Ref, use Callback, use Id etc (password generator using these hooks)
+7. Creating custom hooks and uses fetch API also to make currency convertor app
+8. All about react routers
+9. Context API and local storage with two project (theme changer and todo app).
+10.Redux, react-redux practices by making project of todo app.(store, reducers, state, use Selector, use Dispatch)
